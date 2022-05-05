@@ -1,0 +1,967 @@
+﻿
+ [
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1356.54,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1363.87,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1343.72,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1413.27,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1437.51,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1210.53,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1362,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1345.8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1298.78,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1388.53,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Enero",
+                            "Parametro": "2013",
+                            "Valor": 1187.89,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1181.25,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1311.66,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1208.21,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1256.21,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1286.78,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1300.88,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1215.54,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1223.42,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1269.13,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1212.81,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1268.71,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Enero",
+                            "Parametro": "2014",
+                            "Valor": 1312.64,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1230.12,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1298.75,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1236.61,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1257.8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1263.14,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1277.4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1166.11,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1222.02,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1229.83,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1232.74,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1273.91,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Enero",
+                            "Parametro": "2015",
+                            "Valor": 1277.72,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1225.57,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1236.56,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1307.98,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1280.53,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1315.2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1320.46,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1163.08,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1281.1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1255.89,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1281.94,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1312.71,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Enero",
+                            "Parametro": "2016",
+                            "Valor": 1331.29,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1273.03,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1294.32,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1304.66,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1313.93,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1339.38,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1340.07,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1156.16,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1300.03,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1341.26,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1299.7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1357.73,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Enero",
+                            "Parametro": "2017",
+                            "Valor": 1368.55,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1349.41,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1346.95,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1411.97,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1363.87,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1395.38,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1440.58,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1225.26,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1393.53,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1371.99,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1356.08,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1380.63,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Enero",
+                            "Parametro": "2018",
+                            "Valor": 1388.17,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1363.29,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1364.94,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1431.43,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1386.2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1421.42,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1468,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1284.31,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1458.41,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1396.47,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1411.77,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1458.47,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Enero",
+                            "Parametro": "2019",
+                            "Valor": 1452.43,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1386.39,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1427.06,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1417.99,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1408.33,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1449.7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1519.39,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1370.26,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1458.43,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1427.42,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1444.52,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1478.01,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Enero",
+                            "Parametro": "2020",
+                            "Valor": 1492.84,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1439.09,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1451.93,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1513.18949,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1482.58632,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1439.29276,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1443.67849,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1294,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1374,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1377,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1398,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1463,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Enero",
+                            "Parametro": "2021",
+                            "Valor": 1497,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1428,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 1449,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1479,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1490,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 1533,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 1579,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 1431,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 1540,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1527,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1552,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1582,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Enero",
+                            "Parametro": "2022",
+                            "Valor": 1638,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 1541,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                
+            
+        
+    
