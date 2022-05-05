@@ -1,0 +1,75 @@
+ [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de abril",
+                            "Parametro": "Día 1 de abril",
+                            "Valor": 459.27,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de abril",
+                            "Parametro": "Día 5 de abril",
+                            "Valor": 426.15,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de abril",
+                            "Parametro": "Día 8 de abril",
+                            "Valor": 420.17,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de abril",
+                            "Parametro": "Día 12 de abril",
+                            "Valor": 435.42,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de abril",
+                            "Parametro": "Día 19 de abril",
+                            "Valor": 505.86,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de abril",
+                            "Parametro": "Día 22 de abril",
+                            "Valor": 555.47,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de abril",
+                            "Parametro": "Día 26 de abril",
+                            "Valor": 608.16,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 29 de abril",
+                            "Parametro": "Día 29 de abril",
+                            "Valor": 676.43,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de mayo",
+                            "Parametro": "Día 3 de mayo",
+                            "Valor": 790.28,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
